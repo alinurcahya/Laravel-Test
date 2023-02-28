@@ -1,2 +1,2 @@
-# Laravel-Test
+# Laravel Test
 Running Test Laravel Project
